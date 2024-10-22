@@ -1,0 +1,17 @@
+C:\Users\AGNA\Documents\Alisson\C#\JogoForca\JogoForca\bin\Debug\net8.0\JogoForca.exe
+C:\Users\AGNA\Documents\Alisson\C#\JogoForca\JogoForca\bin\Debug\net8.0\JogoForca.deps.json
+C:\Users\AGNA\Documents\Alisson\C#\JogoForca\JogoForca\bin\Debug\net8.0\JogoForca.runtimeconfig.json
+C:\Users\AGNA\Documents\Alisson\C#\JogoForca\JogoForca\bin\Debug\net8.0\JogoForca.dll
+C:\Users\AGNA\Documents\Alisson\C#\JogoForca\JogoForca\bin\Debug\net8.0\JogoForca.pdb
+C:\Users\AGNA\Documents\Alisson\C#\JogoForca\JogoForca\obj\Debug\net8.0\JogoForca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGNA\Documents\Alisson\C#\JogoForca\JogoForca\obj\Debug\net8.0\JogoForca.AssemblyInfoInputs.cache
+C:\Users\AGNA\Documents\Alisson\C#\JogoForca\JogoForca\obj\Debug\net8.0\JogoForca.AssemblyInfo.cs
+C:\Users\AGNA\Documents\Alisson\C#\JogoForca\JogoForca\obj\Debug\net8.0\JogoForca.csproj.CoreCompileInputs.cache
+C:\Users\AGNA\Documents\Alisson\C#\JogoForca\JogoForca\obj\Debug\net8.0\JogoForca.dll
+C:\Users\AGNA\Documents\Alisson\C#\JogoForca\JogoForca\obj\Debug\net8.0\refint\JogoForca.dll
+C:\Users\AGNA\Documents\Alisson\C#\JogoForca\JogoForca\obj\Debug\net8.0\JogoForca.pdb
+C:\Users\AGNA\Documents\Alisson\C#\JogoForca\JogoForca\obj\Debug\net8.0\JogoForca.genruntimeconfig.cache
+C:\Users\AGNA\Documents\Alisson\C#\JogoForca\JogoForca\obj\Debug\net8.0\ref\JogoForca.dll
+C:\Users\AGNA\Documents\Alisson\C#\JogoForca\JogoForca\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\AGNA\Documents\Alisson\C#\JogoForca\JogoForca\obj\Debug\net8.0\JogoForca.csproj.AssemblyReference.cache
+C:\Users\AGNA\Documents\Alisson\C#\JogoForca\JogoForca\obj\Debug\net8.0\JogoForca.csproj.Up2Date
